@@ -1,0 +1,7 @@
+numpy==1.20.3
+torch==2.0.1+cu117
+pillow==9.3.0
+torchvision==0.15.2+cu117
+argparse==1.4.0
+scikit-learn==1.1.3
+tensorboardx==2.6.2
